@@ -245,7 +245,7 @@ img {
   display: none;
 }
 .text-color{
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(145, 0, 145);
   text-align: center;
   margin-top: 20px;
@@ -253,6 +253,7 @@ img {
 }
 .text-position{
   font-weight: 500;
+  font-family: fantasy;
   margin: 20px;
 }
 
